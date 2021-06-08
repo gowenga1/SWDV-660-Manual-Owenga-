@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Digital Math School Applied Mathematics</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="MathDigitalSchoolStyle.css">
+
+<div class="head">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+        * {
+          box-sizing: border-box;
+        }
+              
+        </style>
+        </head>
+        
+        <body 
+             style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;"
+             background="C:\Users\georg\Documents\Maryville\Web Development\W8\cloudsbackgroundimage.jpg">
+        </body>
+        
+        <h3>“The book of nature is written in the language of Mathematic” -Galileo.</h3>
+</div>
+
+<div class="header">
+  <header>
+    <h1 >APPLIED MATHEMATICS</h1>
+  </header>
+</div>
+
+<div style="overflow:auto">
+  <div class="menu">
+    <h2>MDS CONTENTS</h2>
+    <br>
+    <!--links to database of content materials-->
+    <li><a href="#" aria-label="Teacher provided notes">Notes</a></li>
+    <li><a href="#"aria-label="Watch lesson videos">Lesson Videos</a></li>
+    </br>
+    <br>
+    <li><a href="#" aria-label="Solve math puzzles">Math puzzles</a></li>
+    <li><a href="#" aria-label="Play math games">Math games</a></li>
+    </br>
+    <br>
+    <li><a href="#" aria-label="End of section practice exercises">Practice Exercises</a></li>
+    <li><a href="#" aria-label="Chapter Quizzes">Quizzes</a></li>
+    <li><a href="#" aria-label="Chapter test reviews">Test Reviews</a></li>
+    <li><a href="#" aria-label="Chapter tests">Tests</a></li>
+    </br>
+    
+  </div>
+
+  <div class="main">
+      <h2>LESSONS NOTES AND VIDEOS</h2>
+      <table style="width:100">
+        <tr>
+          <th>Topics</th>
+          <th>Videos</th> 
+          <th>Power Point</th>
+        </tr>
+        <tr>
+          <td>1.Systems of Linear Equations</td>
+          <td><a href="https://www.youtube.com/watch?v=tiELETIR64o"
+              title="Powers and Exponents">Systems of Linear Equations</a></td>
+          <td><a href="file:///C:/Users/georg/Documents/WH/Bridge%20Math/Notes/Powersandexponentsreview.ppt">
+              Systems of Linear Equations</a></td>
+        </tr>
+        <tr>
+          <td>2.Systems of Inequalities and Linear Programming</td>
+          <td><a href="https://www.youtube.com/watch?v=T6-0MwmCpE8"
+              title="Percent Change">Systems of Inequalities and Linear Programming</a></td>
+          <td><a href="file:///C:/Users/georg/Documents/WH/Bridge%20Math/Notes/Powersandexponentsreview.ppt">
+            Systems of Inequalities and Linear Programming</a></td>
+        </tr>
+        <tr>
+          <td>3.Descriptive and Inferential Statistics</td>
+          <td><a href="https://www.youtube.com/watch?v=AA6RfgP-AHU&t=13s"
+              title="Pythagorean Theorem">Descriptive and Inferential Statistics</a></td>
+          <td><a href="file:///C:/Users/georg/Documents/WH/Bridge%20Math/Notes/Powersandexponentsreview.ppt">   
+            Descriptive and Inferential Statistics</a></td>
+        </tr>
+      </table>
+      
+      <h2>LESSONS PUZZLES AND GAMES</h2>
+      <table style="width:100">
+              <tr>
+                <th>Topics</th>
+                <th>Puzzles</th> 
+                <th>Games</th>
+              </tr>
+              <tr>
+                <td>1.Systems of Linear Equations</td>
+                <td><a href="https://www.vocabtest.com/crosswords.php?tid=116548"
+                  title="Powers and Exponents">Systems of Linear Equations</a></td>
+                  <td><a href="http://www.xpmath.com/forums/arcade.php?do=play&gameid=95"
+                      title="Powers and Exponents">Systems of Linear Equations</a></td>
+              </tr>
+              <tr>
+                <td>2.Systems of Inequalities and Linear Programming</td>
+                <td><a href="https://www.mathplayground.com/making_change.html"
+                  title="Percent Change">Systems of Inequalities and Linear Programming</a></td>
+                <td><a href="file:///C:/Users/georg/Documents/WH/Bridge%20Math/Notes/Powersandexponentsreview.ppt">
+                  Systems of Inequalities and Linear Programming</a></td>
+              </tr>
+              <tr>
+                <td>3.Descriptive and Inferential Statistics</td>
+                <td><a href="http://www.math-play.com/Pythagorean-Theorem-Game.html"
+                  title="Pythagorean Theorem">Descriptive and Inferential Statistics</a></td>
+                <td><a href="file:///C:/Users/georg/Documents/WH/Bridge%20Math/Notes/Powersandexponentsreview.ppt">   
+                  Descriptive and Inferential Statistics</a></td>
+              </tr>
+            </table>
+      
+            <h2>TEST REVIEWS AND EXERCISES</h2>
+            <table style="width:100">
+                    <tr>
+                      <th>Topics</th>
+                      <th>Test Reviews</th> 
+                      <th>Practice Exercises</th>
+                    </tr>
+                    <tr>
+                      <td>1.Systems of Linear Equations</td>
+                      <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Powers%20and%20Exponents%20Test%20review.pdf"
+                        title="Powers and Exponents">Systems of Linear Equations</a></td>
+                        <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Exponent_Rules_&_Practice.pdf"
+                            title="Powers and Exponents">Systems of Linear Equations</a></td>
+                    </tr>
+                    <tr>
+                      <td>2.Systems of Inequalities and Linear Programming</td>
+                      <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Percent%20Change%20Test%20Review.pdf"
+                        title="Percent Change">Systems of Inequalities and Linear Programming</a></td>
+                      <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Percent%20Change%20Practice.pdf">
+                          Systems of Inequalities and Linear Programming</a></td>
+                    </tr>
+                    <tr>
+                      <td>3.Descriptive and Inferential Statistics</td>
+                      <td><a href="http://www.math-play.com/Pythagorean-Theorem-Game.html"
+                        title="Pythagorean Theorem">Descriptive and Inferential Statistics</a></td>
+                      <td><a href="file:///C:/Users/georg/Documents/WH/Bridge%20Math/Notes/Powersandexponentsreview.ppt">   
+                          Descriptive and Inferential Statistics</a></td>
+                    </tr>
+                  </table>
+  
+            <h2>QUIZZES AND TESTS</h2>
+                <table style="width:100">
+                  <tr>
+                    <th>Topics</th>
+                    <th>Test Reviews</th> 
+                    <th>Practice Exercises</th>
+                  </tr>
+                  <tr>
+                    <td>1.Systems of Linear Equations</td>
+                    <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Powers%20and%20Exponents%20Test%20review.pdf"
+                      title="Powers and Exponents">Systems of Linear Equations</a></td>
+                      <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Exponent_Rules_&_Practice.pdf"
+                          title="Powers and Exponents">Systems of Linear Equations</a></td>
+                  </tr>
+                  <tr>
+                    <td>2.Systems of Inequalities and Linear Programming</td>
+                    <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Percent%20Change%20Test%20Review.pdf"
+                      title="Percent Change">Systems of Inequalities and Linear Programming</a></td>
+                    <td><a href="file:///C:/Users/georg/Documents/Maryville/Web%20Development/W8/TR/Percent%20Change%20Practice.pdf">
+                        Systems of Inequalities and Linear Programming</a></td>
+                  </tr>
+                  <tr>
+                    <td>3.Descriptive and Inferential Statistics</td>
+                    <td><a href="http://www.math-play.com/Pythagorean-Theorem-Game.html"
+                      title="Pythagorean Theorem">Descriptive and Inferential Statistics</a></td>
+                    <td><a href="file:///C:/Users/georg/Documents/WH/Bridge%20Math/Notes/Powersandexponentsreview.ppt">   
+                        Descriptive and Inferential Statistics</a></td>
+                  </tr>
+                </table>
+
+  </div>
+
+  <div class="right">
+    <h2>APPLIED MATH TEACHERS</h2>
+    <!--Teachers teaching Applied Math -->
+    <li><a href="#" aria-label="Teacher of Applied Math ">Williamson Nelly</a></li>
+    <li><a href="#"aria-label="Teacher of Applied Math">Tera Johnson</a></li>
+    <li><a href="#"aria-label="Teacher of Applied Math">Brittney Perks</a></li>
+  </div>
+
+</div>
+
+<div class="footer">
+    <a href="2020 MathDigitalSchool.html" aria-label="Read more about the Math Digital School">2020 MathDigitalSchool</a>
+    <a href="TermsofUse.html" aria-label="Read more about the terms of using this website">Terms of Use</a> 
+    <a href="PrivacyPolicy.html" aria-label="Read more about the privacy policy">Privacy Policy</a> 
+    <a href="SiteMap.html" aria-label="View the site map of the website">Site Map</a> 
+</div>
+
+</body>
+</html>
